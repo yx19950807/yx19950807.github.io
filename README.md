@@ -1,1 +1,3 @@
 # yx19950807.github.io
+  My name is Xin Ye. I am a natural language processing algorithm engineer and graduated from Beijing University of Posts and Telecommunications with a bachelor's degree and a master's degree.
+ I am a student of Professor Xiao Bo of Beijing University of Posts and Telecommunications. When I was in graduate school, my research direction was natural language processing. I previously worked at Alibaba, responsible for the algorithm business in search and recommendation directions. Currently working at Kuaishou, his main research directions are natural language processing and large base models.
